@@ -1,0 +1,11 @@
+﻿  ConsoleApplication80.cpp
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(26,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(120,13): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(120,124): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(133,21): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(139,69): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(143,21): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(149,69): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(152,21): warning C4129: e: неизвестная escape-последовательность
+C:\Users\student\source\repos\ConsoleApplication80\ConsoleApplication80\ConsoleApplication80.cpp(158,69): warning C4129: e: неизвестная escape-последовательность
+  ConsoleApplication80.vcxproj -> C:\Users\student\source\repos\ConsoleApplication80\Debug\ConsoleApplication80.exe
